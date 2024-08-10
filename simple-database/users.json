@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "0001",
+    "username": "ali",
+    "gender": "male",
+    "age": "33"
+  },
+  {
+    "uid": "0002",
+    "username": "behnam",
+    "gender": "male",
+    "age": "17"
+  },
+  {
+    "uid": "0004",
+    "username": "zahra",
+    "gender": "female",
+    "age": "25"
+  },
+  {
+    "uid": "0003",
+    "username": "morteza",
+    "gender": "male",
+    "age": null
+  },
+  {
+    "uid": "0005",
+    "username": "amin",
+    "gender": null,
+    "age": "20"
+  }
+]
